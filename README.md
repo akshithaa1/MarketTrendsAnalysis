@@ -1,4 +1,3 @@
-# MarketTrendsAnalysis
 # Market Trends Analysis Tool
 
 This project is designed to analyze current market trends in the home decor and lifestyle sector. It provides insights into key market trends, competitor strategies, and factors influencing customer purchasing decisions.
